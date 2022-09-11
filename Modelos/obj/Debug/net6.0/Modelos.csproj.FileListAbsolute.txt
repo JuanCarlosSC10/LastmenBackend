@@ -1,0 +1,56 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll

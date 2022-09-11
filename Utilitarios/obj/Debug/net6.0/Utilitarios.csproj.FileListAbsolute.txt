@@ -1,0 +1,24 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\refint\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Utilitarios\obj\Debug\net6.0\ref\Utilitarios.dll

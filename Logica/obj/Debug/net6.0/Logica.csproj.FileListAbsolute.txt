@@ -1,0 +1,82 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Logica\obj\Debug\net6.0\ref\Logica.dll

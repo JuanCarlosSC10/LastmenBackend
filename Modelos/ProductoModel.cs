@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Modelos
+{
+    public class ProductoModel    {
+        [Key] // es la llave primaria de mi base de dato
+        public int IdProducto { get; set; }
+     
+        public string NombreProducto { get; set; }
+      
+        public decimal PrecioCompra { get; set; }
+       
+        public decimal PrecioVenta { get; set; }
+        
+        public int Cantidad { get; set; }
+     
+        public string FechaIngreso { get; set; }
+        
+        public string? Descripcion { get; set; }
+
+        public int IdCategoria { get; set; }
+
+    }
+}
