@@ -10,15 +10,15 @@ namespace PersonalApi.Controllers
     [ApiController]
     [Authorize]
    
-    public class ClienteController : ControllerBase
+    public class ProveedorController : ControllerBase
     {
         /*ctrl + r + r */
-        ClienteLogica clientelog = new ClienteLogica();
+        ProveedorLogica clientelog = new ProveedorLogica();
 
         [HttpGet]
         public IActionResult get()
         {
-            List<ClienteModel> listaResultado = new List<ClienteModel>();
+            List<ProveedorModel> listaResultado = new List<ProveedorModel>();
             listaResultado = clientelog.ListarTodo();
             return Ok(listaResultado);
         }
@@ -27,22 +27,22 @@ namespace PersonalApi.Controllers
         [HttpGet("{id}")]
         public IActionResult getId(int id)
         {
-            ClienteModel res = new ClienteModel();
+            ProveedorModel res = new ProveedorModel();
             res = clientelog.ObtenerPorId(id);
             return Ok(res);
         }
 
         [HttpPost]
-        public IActionResult post(ClienteModel request)
+        public IActionResult post(ProveedorModel request)
         {
-            ClienteModel response = clientelog.CrearRegistro(request);
+            ProveedorModel response = clientelog.CrearRegistro(request);
             return Ok(response);
         }
 
         [HttpPut]
-        public IActionResult put(ClienteModel request)
+        public IActionResult put(ProveedorModel request)
         {
-            ClienteModel response = clientelog.ActualizarRegistro(request);
+            ProveedorModel response = clientelog.ActualizarRegistro(request);
             return Ok(response);
         }
 

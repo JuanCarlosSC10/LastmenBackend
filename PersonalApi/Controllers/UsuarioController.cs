@@ -9,6 +9,7 @@ namespace PersonalApi.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
+     //[AllowAnonymous]
     public class UsuarioController : ControllerBase
     {
         UsuarioLogica usuariologica = new UsuarioLogica();

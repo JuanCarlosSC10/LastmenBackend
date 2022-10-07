@@ -9,16 +9,16 @@ using System.Threading.Tasks;
 
 namespace Logica
 {
-    public class ClienteLogica : ICRUDLogica<ClienteModel>
+    public class ProveedorLogica : ICRUDLogica<ProveedorModel>
     {
-        ClienteRepositorio repo = new ClienteRepositorio();
-        public ClienteModel ActualizarRegistro(ClienteModel input)
+        ProveedorRepositorio repo = new ProveedorRepositorio();
+        public ProveedorModel ActualizarRegistro(ProveedorModel input)
         {
             input = repo.ActualizarRegistro(input);
             return input;
         }
 
-        public ClienteModel CrearRegistro(ClienteModel input)
+        public ProveedorModel CrearRegistro(ProveedorModel input)
         {
             input = repo.CrearRegistro(input);
             return input;
@@ -30,15 +30,15 @@ namespace Logica
             return id;
         }
 
-        public List<ClienteModel> ListarTodo()
+        public List<ProveedorModel> ListarTodo()
         {
-            List<ClienteModel> lista = repo.ListarTodo();
+            List<ProveedorModel> lista = repo.ListarTodo();
             return lista;
         }
 
-        public ClienteModel ObtenerPorId(int id)
+        public ProveedorModel ObtenerPorId(int id)
         {
-            ClienteModel resultado = repo.ObtenerPorId(id);
+            ProveedorModel resultado = repo.ObtenerPorId(id);
             return resultado;
         }
     }
