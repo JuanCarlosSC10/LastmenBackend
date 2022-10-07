@@ -31,9 +31,8 @@ namespace Repositorio
         public DbSet<ProductoModel> Producto { get; set; }
         public DbSet<ClienteModel> Clientes { get; set; }
         public DbSet<UsuarioModel> Usuario { get; set; }
-        
         public DbSet<VentasModel> Ventas { get; set; }
-        
+        public DbSet<ProveedorModel> Proveedor { get; set; }
         public DbSet<ErrorModel> Error { get; set; }
         public DbSet<DetalleVentaModel>DetalleVenta{ get; set; }
         

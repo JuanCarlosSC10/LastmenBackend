@@ -54,3 +54,17 @@ D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\eje
 D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
 D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
 D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Modelos\obj\Debug\net6.0\ref\Modelos.dll
