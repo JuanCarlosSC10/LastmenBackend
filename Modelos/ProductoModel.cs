@@ -11,20 +11,22 @@ namespace Modelos
     public class ProductoModel    {
         [Key] // es la llave primaria de mi base de dato
         public int IdProducto { get; set; }
-     
+        public int IdCategoria { get; set; }
+        public int IdProveedor { get; set; }
         public string NombreProducto { get; set; }
-      
-        public decimal PrecioCompra { get; set; }
-       
-        public decimal PrecioVenta { get; set; }
-        
-        public int Cantidad { get; set; }
-     
-        public string FechaIngreso { get; set; }
-        
+
         public string? Descripcion { get; set; }
 
-        public int IdCategoria { get; set; }
+        public string Unidad_Medida { get; set; }
+
+        public int Cantidad { get; set; }
+
+        public string FechaVencimiento { get; set; }
+        public decimal PrecioProducto { get; set; }
+
+        public string Lote { get; set; }
+
+        public string FechaIngreso { get; set; }
 
     }
 }

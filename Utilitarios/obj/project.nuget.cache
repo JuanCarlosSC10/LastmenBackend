@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epnnWDkHMBUN3C1lYrkITlklgXWQh6nqoamhmwePGpzr52QLEHI9xen91aSyRq3RiQtM1dGUogAXlbs33+f2WA==",
+  "dgSpecHash": "YDVbtFC7eL7KmQMMjjTLWlxhzbj8UpryjuAwsfM+m60hej8xftO2j73uj+8pQ/UP5tZAj9tECYTgWAeEo9Fbzg==",
   "success": true,
-  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
+  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aSus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\aSus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

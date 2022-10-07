@@ -18,9 +18,10 @@ namespace Modelos
         public int IdProducto { get; set; } //id
                                                 //
         public int Cantidad { get; set; }
-        public decimal PrecioVenta { get; set; } //id
-                                            //
         public decimal Descuento { get; set; }
+        public decimal Precio_venta { get; set; } //id
+                                                  //
+        public decimal Precio_unitario { get; set; } //id
 
         [JsonIgnore, ForeignKey("IdVenta")]
         public virtual VentasModel? Ventas { get; set; }

@@ -13,7 +13,7 @@ namespace Modelos
         [Key] // es la llave primaria de mi base de dato
         public int IdVenta { get; set; }
         [Required]
-        public int idUsuario { get; set; }
+        public int IdUsuario { get; set; }
         [Required]
         public int IdCliente { get; set; }
 

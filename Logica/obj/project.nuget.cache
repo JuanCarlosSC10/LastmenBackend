@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5bV2MIls0T1hcT7+Zo7UmUyZIAFbgfn9rw6P8QzFdwLk63yR5k6t273aeytrZ0hvUaDaVs0zeqGCRMxDl098A==",
+  "dgSpecHash": "qVDRXTNi4QR34iSsOPadKTJ7eRN10QBhN6FS5vKEctpwkxIvjuX5987Fx51rIJL29kihSBnUVzbAAw0ZbWRi4w==",
   "success": true,
-  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
+  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aSus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aSus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

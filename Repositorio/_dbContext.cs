@@ -25,7 +25,7 @@ namespace Repositorio
         }
         #endregion
 
-        public DbSet<EstadoModel> Estado { get; set; }
+      
 
         public DbSet<CategoriaModel> Categoria { get; set; }
         public DbSet<ProductoModel> Producto { get; set; }

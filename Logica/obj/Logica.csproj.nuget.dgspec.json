@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj": {}
+    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj": {}
   },
   "projects": {
-    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj": {
+    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
+        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
+        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\aSus\\.nuget\\packages\\",
-        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\obj\\",
+        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj": {
-                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj"
+              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj": {
+    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
+        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\aSus\\.nuget\\packages\\",
-        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\obj\\",
+        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,14 +156,14 @@
         }
       }
     },
-    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj": {
+    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj",
+        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj",
         "projectName": "Repositorio",
-        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj",
+        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\Repositorio.csproj",
         "packagesPath": "C:\\Users\\aSus\\.nuget\\packages\\",
-        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\obj\\",
+        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,11 +184,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj": {
-                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj"
+              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj": {
+                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj"
               },
-              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj": {
-                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj"
+              "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj": {
+                "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj": {
+    "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
+        "projectUniqueName": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
         "projectName": "Utilitarios",
-        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
+        "projectPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\Utilitarios.csproj",
         "packagesPath": "C:\\Users\\aSus\\.nuget\\packages\\",
-        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\obj\\",
+        "outputPath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Utilitarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wn8Mji4zvLqzkE8CuBrMOe16RdJRoW4ImPozJAlBGi/tZ/DBuvOV98uUAJAuFoHeA4LiKHski7V8i96Dg+2M2Q==",
+  "dgSpecHash": "1AZN8jyAt7JRPNxHLjZ095PANymMY8wecXAFPJpN1FMBiIqJBDI3JvDLh6Bu1Rv+f5A/JMSS8YBVDO6vCx0nNw==",
   "success": true,
-  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto Productivo III B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
+  "projectFilePath": "D:\\Family\\JUAN-CARLOS\\6TO-SEMESTRE\\Proyecto-Productivo-III-B\\LASTMEN\\BACKEND\\ejemplo_rest_api\\Modelos\\Modelos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aSus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aSus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
